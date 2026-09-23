@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is João Vitor and I'm a Software Engineering student at PUC-Campinas.</h2>
+<h2 data-importer="text" align="left">Hi 👨🏼‍💻! My name is João Vitor and I'm a Software Engineering student at PUC-Campinas.</h2>
 
 ###
 
