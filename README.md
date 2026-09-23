@@ -3,9 +3,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4JV&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/L4JV/github-stats/generated/overview.svg" height="150" alt="stats graph" /> 
   <img src="https://streak-stats.demolab.com?user=L4JV&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4JV&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/L4JV/github-stats/generated/languages.svg" height="150" alt="languages graph" /> 
 </div>
 
 ###
@@ -60,4 +60,4 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/L4JV/L4JV/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-t
+
